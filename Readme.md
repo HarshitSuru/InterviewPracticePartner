@@ -1,7 +1,7 @@
 
 #  Interview Preparation Partner – Voice-Based AI Agent
 
-This project is built as part of the **Eightfold.ai – AI Agent Building Assignment**.  
+
 The goal is to create a **voice-first mock interview partner** that behaves like a real interviewer — asking role-specific questions, speaking naturally, listening to your voice, adapting to different user personas, and finally providing structured feedback when requested.
 
 Everything has been designed so the interview feels smooth, interactive, and realistic.
